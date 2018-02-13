@@ -1,12 +1,19 @@
 .col1{
-    background:#4cae4c;
+    background: #baefff;
 }
 .col2{
-    background:#b92c28;
+    background: #c1ffa6;
 }
 .col3{
-    background: #12adae;
+    background: #ffd998;
 }
 .col4{
-    background: #0415ae;
+    background: #ffa188;
 }
+.col5{
+    background: #ffa6fc;
+}
+.col6{
+    background: #82e0ff;
+}
+
